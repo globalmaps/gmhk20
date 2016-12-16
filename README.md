@@ -16,5 +16,5 @@ URL: www.landsd.gov.hk/mapping/welcome.htm
 ## metadata
 This Data was developed based on Global Map Specifications version 2.1. 
 
-### Boundary, Transportation, Drainage, population Center
+### Boundary, Transportation, Drainage, Population Center
 The data source was Map Database in scale of 1:100,000.
