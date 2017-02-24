@@ -9,7 +9,7 @@ Credit: Global Map of Hong Kong, China © ISCGM/ Lands Department, the Governmen
 
 Contact: Survey and Mapping Office, Lands Department, the Government of the Hong Kong SAR.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/hong_kong.png)
+E-mail: ![email](email.png)
 
 URL: www.landsd.gov.hk/mapping/welcome.htm
 
